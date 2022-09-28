@@ -1,4 +1,4 @@
-# Next.js starter-kit
+# Next.js + tailwindcss starter-kit
 
 ## Stack Used
 - React 18
@@ -7,6 +7,7 @@
 - Context API
 - storybook
 - styled-component
+- tailwindcss
 
 ## Deployment Support
 - Github Action (CI/CD)
@@ -28,7 +29,7 @@
 ### Start project
 
 ```
-npx create-nextapp /path/to/dir --example https://github.com/tinyjin/nextjs-starterkit
+npx create-next-app /path/to/dir --example https://github.com/seeso-inc/nextjs-tailwind-starterkit
 ```
 
 ### Install dependencies
