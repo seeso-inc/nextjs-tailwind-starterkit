@@ -1,6 +1,8 @@
 const IndexPage = () => (
   <>
-    <h1>Hello Next.js 👋</h1>
+    <h1 className="text-3xl font-bold underline">
+      Hello Next.js + tailwind 👋
+    </h1>
     <p>
       HI
     </p>
