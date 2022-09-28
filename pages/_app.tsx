@@ -1,4 +1,3 @@
-import GlobalStyle from 'components/GlobalStyle';
 import GoogleAnalytics from 'components/GoogleAnalytics';
 import Layout from 'components/Layout';
 import Head from 'next/head';
@@ -12,7 +11,6 @@ const App = ({ Component, pageProps }) => {
         <GoogleAnalytics />
       </Head>
 
-      <GlobalStyle />
       <Layout>
         <Component {...pageProps} />
       </Layout>
