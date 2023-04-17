@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
     "axios": "^0.27.2",
     "axios-case-converter": "^0.9.0",
     "katex": "^0.15.6",
@@ -18,6 +19,7 @@
     "prismjs": "^1.28.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
+    "react-hook-form": "^7.43.9",
     "react-notion-x": "^6.12.9",
     "styled-components": "^5.3.5"
   },
